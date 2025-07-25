@@ -1,4 +1,1 @@
-# .streamlit/secrets.toml
 
-TELEGRAM_BOT_TOKEN = "8017371459:AAHrcHw9dJbz4G-Omlcv_ltea6EdnZkMlho"
-TELEGRAM_CHAT_ID = "966009955"
